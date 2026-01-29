@@ -1,5 +1,24 @@
-# Young-painters-group-
-Young painters group landing page 
+<style>
+  body {
+    background-color: #f4f6f8;
+    font-family: Arial, sans-serif;
+  }
+
+  header {
+    background-color: #1e7f43;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+
+  button {
+    background-color: #1e7f43;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 5px;
+  }
+</style>
 <!DOCTYPE html><html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -139,4 +158,3 @@ Young painters group landing page
     <p>📧 youngpaintersgroup@gmail.com</p>
     <p>© 2026 Young Painters Group. All rights reserved.</p>
   </footer></body>
-</html>
